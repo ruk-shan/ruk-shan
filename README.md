@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shan
 - 👀 I’m interested in robotics
-- 🌱 I’m currently working on robotic related projects. 
+- 🌱 I’m currently working on mobile robotics related projects. 
 - 💞️ I’m looking to collaborate on robotic research and development. 
 - 📫 How to reach me ruk.shan@outlook.com
 
